@@ -1,0 +1,6 @@
+{
+  "name": "Global Agri-Logistics Chain",
+  "description": "Smart cold chain warehouse and deep-processed food distribution system, exporting premium Vietnamese organic rice and meats globally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
